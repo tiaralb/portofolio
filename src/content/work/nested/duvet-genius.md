@@ -1,7 +1,7 @@
 ---
 title: Inspira Mobile (Pinang Performa)
 publishDate: 2020-03-04 00:00:00
-img: /assets/inspira.png
+img: /assets/inspira-min.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   Tech Stack and Tools used: Jira, Flutter Web, Flutter Mobile, Figma, Git, ReactJS.

@@ -1,7 +1,7 @@
 ---
 title: Internal Dashboard Pinang Performa
 publishDate: 2020-03-02 00:00:00
-img: /assets/pinangweb.png
+img: /assets/pinangweb-min.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Tech Stack and Tools used: Jira, Flutter Web, Figma, Git

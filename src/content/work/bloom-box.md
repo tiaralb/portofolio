@@ -1,7 +1,7 @@
 ---
 title: Financial Cooperative
 publishDate: 2019-12-01 00:00:00
-img: /assets/webkoperasi.png
+img: /assets/webkoperasi-min.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
 Tech Stack and Tools used: PHP, Bootstrap, HTML, JS, CSS, CodeIgniter, MySQL
