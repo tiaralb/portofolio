@@ -101,7 +101,16 @@ declare module 'astro:content' {
 	>;
 
 	const entryMap: {
-		"work": {
+		"blog": {
+"about-astro.md": {
+  id: "about-astro.md",
+  slug: "about-astro",
+  body: string,
+  collection: "blog",
+  data: any
+} & { render(): Render[".md"] },
+},
+"work": {
 "bloom-box.md": {
   id: "bloom-box.md",
   slug: "bloom-box",
